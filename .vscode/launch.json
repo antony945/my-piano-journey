@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MyPianoJourneyBackendApplication<my-piano-journey-backend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.github.antony945.my_piano_journey_backend.MyPianoJourneyBackendApplication",
+            "projectName": "my-piano-journey-backend",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
